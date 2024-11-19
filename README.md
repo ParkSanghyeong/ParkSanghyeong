@@ -1,3 +1,2 @@
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hechargu)
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hechargu)](https://solved.ac/hechargu)
 <img src="http://mazandi.herokuapp.com/api?handle=hechargu&theme=dark"/>
